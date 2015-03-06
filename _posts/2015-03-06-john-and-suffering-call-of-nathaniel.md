@@ -2,6 +2,8 @@
 title: Call of Nathaniel
 class: John and Suffering
 semester: Spring 2015
+layout: post
+
 ---
 
 ## Prelude: Naked Before God
