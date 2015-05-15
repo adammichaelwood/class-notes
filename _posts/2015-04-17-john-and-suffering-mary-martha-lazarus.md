@@ -24,9 +24,9 @@ layout: post
 
  - Moloney sees Mary words as indicative of her unconditional trust in the power of the presence of Jesus ... reflecting true faith while MArtha has fallen short of such faith"
 
- - Brown suggests that because MAry is at Jesus's feet she has a livlier faith
+ - Brown suggests that because MAry is at Jesus's feet she has a livelier faith
 
- - In the light of the Jewish lectionary readings (espeically PSalms) assigned for Tebeth-Shebat, the coplaints of MAry and Martha represent the Lament Psalms
+ - In the light of the Jewish lectionary readings (especially Psalms) assigned for Tebeth-Shebat, the complaints of MAry and Martha represent the Lament Psalms
 
 ### Brief Introduction to the Psalms
 

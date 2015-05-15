@@ -3,8 +3,8 @@ title: CDSP Class Notes
 email: adam.michael.wood@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Class notes of Adam Wood
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site 
+baseurl: "/class-notes/" # the subpath of your site, e.g. /blog/
+url: "http://adammichaelwood.github.io" # the base hostname & protocol for your site 
 github_username:  adammichaelwood
 
 # Build settings

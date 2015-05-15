@@ -33,7 +33,7 @@ _Resurrection_, Geza Vermes
 ### Death and Beyond
 
  - Dead bodies belonged to the domain of the "unclean"
- - Priests, Levits, and Nazirites were forbidden to touch dead bodies or attend funerals
+ - Priests, Levites, and Nazirites were forbidden to touch dead bodies or attend funerals
  - Uncleanness lasted one week and could only be removed by two ritual purifcatory baths
  - Bible orders bodies to be buried on the day of death; derived from primitive hygiene in country of hot climate
  - In popuar Jewish beleif the human spirit hovered near the body for three days, then departed as the color of the corpse began to change

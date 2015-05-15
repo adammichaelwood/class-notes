@@ -68,7 +68,7 @@ Behold the lamb of God...
  - Here is the person who will resolve the human dilemma
 
 John's Great Commission:
- - Who's sins you forgive, are forgiven.
+ - Whose sins you forgive, are forgiven.
  - Jesus takes away the SIN of the world, and the Church takes away the SINS of the world.
     - AW: AH HA!! Plural in liturgy.
  - Church has reduced this to a _magical_ ritual which excludes.
@@ -108,11 +108,11 @@ WHO is this lamb?
              - God does not require the destruction of what we love.
              - Like Amos "should I give the fruit of my loins" God: "No. Live justly, walk humbly, etc"
           - ISC is and _is not_ Jesus.
-             - I is rescued, J is not.
+             - ISC is rescued, Jesus is not.
              - A+I proves that God does not desire human sacrifice.
              - Therefore, we have to interpret the sacrifice of Jesus _without_ reference to God's need for human sacrifice.
           - The "holocaust of the heart"
-             - Love god, even unto death.
+             - Love God, even unto death.
              - Not death by God's hand, but
              - Death at the hands of humans
 
