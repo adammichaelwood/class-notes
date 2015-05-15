@@ -1,5 +1,5 @@
 ---
-title: | Mary, Martha, and Lament
+title: "Mary, Martha, and Lament"
 class: John and Suffering
 semester: Spring 2015
 layout: post

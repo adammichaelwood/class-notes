@@ -1,5 +1,5 @@
 ---
-title: | 12 to 17
+title: 12 to 17
 class: John and Suffering
 semester: Spring 2015
 layout: post

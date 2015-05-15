@@ -1,5 +1,4 @@
 ---
-
 title: "Son of Man, signs, and suffering"
 class: John and Suffering
 semester: Spring 2015
