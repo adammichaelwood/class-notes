@@ -1,5 +1,5 @@
 ---
-title: First Anglicanism: Medieval English Christianity and the English Reformation
+title: "First Anglicanism: Medieval English Christianity and the English Reformation"
 class: Anglicanism
 semester: Fall 2015
 layout: post
