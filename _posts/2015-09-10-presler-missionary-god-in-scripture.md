@@ -8,6 +8,7 @@ class: Anglicanism
 keywords:
  - Mission
  - Anglicanism
+layout: post
 ---
 
 Mission is primarily God's action, which we participate in, _not_ our program.
